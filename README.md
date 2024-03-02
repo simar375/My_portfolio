@@ -1,7 +1,7 @@
 # Portfolio Website
 
 ### [Live Demo](https://simar375.github.io/My_portfolio/)
-![image](https://github.com/simar375/My_portfolio/blob/main/images/port.jpg)
+![image](https://github.com/simar375/My_portfolio/blob/main/images/Portfolio.png)
 
 
 #### 📝 Description
